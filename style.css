@@ -1,0 +1,55 @@
+
+* {
+	  font-family: "Noto Sans", sans-serif;
+
+}
+
+
+body{
+	background-color: whitesmoke;
+
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+
+h1, h6{
+	text-align: center;
+}
+
+div.text{
+	margin: auto;
+	max-width: 700px;
+	background-color: white;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+
+
+figure{
+max-width: 600px;
+margin: auto;
+}
+
+figcaption{
+	color: gray;
+}
+
+img{
+	max-width: 100%;
+}
+
+h6{
+	color: gray;
+}
+
+.red{
+	color: red;
+}
+
+.blue{
+	color:blue;
+}
